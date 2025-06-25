@@ -39,9 +39,9 @@ Chris Fisher provided the scientific guidance, geochronology expertise, and revi
 
 ---
 
-## Known Limitation
+## Seeking Input: Result Visibility
 
-At the time of publication, this script need further testing and validation. Feedback from the Iolite development team is welcome.
+Ongoing testing and validation are being conducted to refine the display of output results in Iolite. An observed issue is the inconsistent appearance of standard-corrected ratios (StdCorr_147Sm_144, StdCorr_143Nd_144) and the rho correlation within the Results section, despite their proper AssociatedResult registration. We welcome insights and debugging assistance, especially from the Iolite development team and those with custom DRS framework experience.
 
 ---
 
