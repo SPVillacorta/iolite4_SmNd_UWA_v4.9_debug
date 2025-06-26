@@ -7,8 +7,7 @@ This DRS script was created to:
 
 - Calculate **standard-corrected isotope ratios** for Sm-Nd (e.g., `143Nd/144Nd`, `147Sm/144Nd`)
 - Output a **visible correlation coefficient (rho)** between `log10(StdCorr_147Sm/144Nd)` and `log10(StdCorr_143Nd/144Nd)`
-- Improve **spline validation** and add `try/except` error handling
-- Enable **error propagation** for both major ratios
+- Improve **spline validation** 
 - Clean and streamline outputs for **publication-ready** use
 
 ---
@@ -34,8 +33,7 @@ Chris Fisher provided the scientific guidance, geochronology expertise, and revi
 - `rho` output is:
   - Registered as an `AssociatedResult` (visible per selection)
   - Plotted as a flat time series (for visibility in output panel)
-- Robust spline-based standard correction for `143Nd/144Nd` and `147Sm/144Nd`
-- Optional uncertainty propagation from the reference material
+- Spline-based standard correction for `143Nd/144Nd` and `147Sm/144Nd`
 
 ---
 
