@@ -1,4 +1,4 @@
-# iolite4_SmNd_UWA_v4.8_debug
+# iolite4_SmNd_UWA_v4.9_debug
 Data Reduction Scheme (DRS) script developed in Python for Iolite 4, used for Sm-Nd isotope analysis at the University of Western Australia (UWA). Help needed with visibility of rho and standard-corrected ratios
 
 ## Purpose
