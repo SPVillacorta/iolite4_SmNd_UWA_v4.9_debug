@@ -16,7 +16,7 @@ This DRS script was created to:
 
 - **Code implementation**: Sandra Villacorta  
 - **Geochronology supervision**: Chris Fisher (UWA-CET)  
-- **Inspiration from**: the original `Sm_Nd_DHF` script by Vitor Barrote, Chris Fisher, and Joe Petrus  
+- **Inspiration from**: the original `Sm_Nd_DHF` script by Vitor Barrote (https://github.com/VitorBarrote/iolite4_scripts_DRS), Chris Fisher, and Joe Petrus  
 
 Chris Fisher provided the scientific guidance, geochronology expertise, and reviewed the results, while Sandra implemented the Python logic for Iolite 4.
 
